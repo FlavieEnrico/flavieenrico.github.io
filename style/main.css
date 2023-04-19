@@ -1,0 +1,66 @@
+body {
+    background: 
+    radial-gradient(circle 200px at 100% 10%,
+    #479CFF 2%, rgba(0, 0, 0, 0)),
+    radial-gradient(circle 400px at 100% 80%,
+    #479CFF 2%, rgba(0, 0, 0, 0)),
+    radial-gradient(circle 600px at 0% 50%,
+    #FF7E47 15%, rgba(0, 0, 0, 1) 100%);
+    color: white;
+}
+
+body #wrap {
+    margin: 0 10% 0 10%;
+}
+
+nav {
+    padding-top: 80px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid white 1px;
+    position: sticky;
+    top: 0px;
+}
+
+nav div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+}
+
+body div > div {
+    width: 50%;
+}
+
+h1, h2 {
+    font-family: 'Rokkitt', sans-serif;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+p {
+    font-family: 'Compagnon';
+    font-weight: 600;
+    opacity: 60%;
+    font-size: 20px;
+}
+
+a {
+    font-family: 'Compagnon';
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
