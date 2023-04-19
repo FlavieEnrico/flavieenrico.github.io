@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@600&display=swap');
+
+@font-face {
+    font-family: 'Compagnon';
+    font-weight: 600;
+    src: local('Compagnon'),
+         url('../fonts/Compagnon-Medium.eot') format('embedded-opentype'),
+         url('../fonts/Compagnon-Medium.woff') format('woff'),
+         url('../fonts/Compagnon-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Compagnon';
+    font-weight: 400;
+    src: local('Compagnon'),
+         url('../fonts/Compagnon-Roman.eot') format('embedded-opentype'),
+         url('../fonts/Compagnon-Roman.woff') format('woff'),
+         url('../fonts/Compagnon-Roman.woff2') format('woff2');
+}
+
 body {
     background: 
     radial-gradient(circle 200px at 100% 10%,
@@ -48,14 +68,14 @@ h2 {
 }
 
 p {
-    font-family: 'Compagnon';
+    font-family: 'Compagnon', sans-serif;
     font-weight: 600;
     opacity: 60%;
     font-size: 20px;
 }
 
 a {
-    font-family: 'Compagnon';
+    font-family: 'Compagnon', sans-serif;
     font-weight: 600;
     color: white;
     text-decoration: none;
