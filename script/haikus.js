@@ -1,4 +1,4 @@
-export default function haikusLoad(infos){
+export function haikusLoad(infos){
   console.log(infos["haikus"])
 
   var codeBlock = '<h2>Haikus</h2>';
