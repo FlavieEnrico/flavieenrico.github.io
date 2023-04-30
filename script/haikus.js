@@ -1,4 +1,4 @@
-export function haikusLoad(infos){
+function haikusLoad(infos){
   console.log(infos["haikus"])
 
   var codeBlock = '<h2>Haikus</h2>';
@@ -17,3 +17,5 @@ export function haikusLoad(infos){
 
   document.getElementById('haikus_js').innerHTML = codeBlock
 }
+
+export { haikusLoad };
