@@ -36,11 +36,10 @@
             <script type="module" src="script/haikus.js">
                 import { haikusLoad } from './script/haikus.js';
         
-            fetch('./script/haikus.json')
-            .then(response => response.json())
-            .then(data => haikusLoad(data))
-            .catch(error => console.error('Error loading data:', error));
-                haikusLoad({ haikus: [] }); // Call the function here with an empty array as a placeholder
+                fetch('./script/haikus.json')
+                .then(response => response.json())
+                .then(data => haikusLoad(data))
+                .catch(error => console.error('Error loading data:', error));
             </script>
         </div>
     </div>
