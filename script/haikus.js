@@ -1,5 +1,3 @@
-
-
 export function haikusLoad(infos){
   console.log(infos["haikus"])
 
