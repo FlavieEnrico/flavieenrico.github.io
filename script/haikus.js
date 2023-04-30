@@ -17,5 +17,3 @@ function haikusLoad(infos){
 
   document.getElementById('haikus_js').innerHTML = codeBlock
 }
-
-export { haikusLoad };
