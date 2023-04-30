@@ -7,9 +7,7 @@
     <link href="style/normalize.css" rel="stylesheet">
     <link href="style/main.css" rel="stylesheet">
     <title>swarm - </title>
-    <script type="module" src="./script/haikus.js">
-        import { haikusLoad } from './haikus.js';
-    </script>
+    <script type="module" src="./script/haikus.js"></script>
 </head>
 <body>
     <div id="wrap">
@@ -41,6 +39,9 @@
                 .then(response => response.json())
                 .then(data => haikusLoad(data))
                 .catch(error => console.error('Error loading data:', error));
+            </script>
+            <script>
+                haikusLoad({ haikus: [] }); // Call the function here with an empty array as a placeholder
             </script>
         </div>
     </div>
