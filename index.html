@@ -7,6 +7,7 @@
     <link href="style/normalize.css" rel="stylesheet">
     <link href="style/main.css" rel="stylesheet">
     <title>swarm - </title>
+    <script src="./script/haikus.js"></script>
 </head>
 <body>
     <div id="wrap">
@@ -31,7 +32,14 @@
         </div>
         <div>
             <h2>Haïkus:</h2>
-            <p>Un haïku, poème bref d’origine japonaise, peut être retrouvé sous différentes formes. Dans sa forme originelle, il se compose de 3 vers, chacun respectivement composé de 5, 7 et 5 syllabes. Dans notre collection, on retrouvera également des haïkus dits argentins. Pour les composer, on sélectionne un mot de 3 syllabes qui sera banni du poème. Le haïku doit comporter les 3 différentes syllabes, réparties dans les premiers mots de chaque vers.</p>
+            <div id="haikus_js">
+            </div>
+            <script>
+                fetch('./script/haikus.json')
+                .then(response => response.json())
+                .then(data => haikusLoad(data))
+                .catch(error => console.error('Error loading data:', error));
+            </script>
         </div>
     </div>
 </body>
