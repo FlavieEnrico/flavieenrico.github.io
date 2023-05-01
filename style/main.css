@@ -88,6 +88,9 @@ a:hover {
 .row {
     width: 100%;
     border-bottom: solid white 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 pre {
