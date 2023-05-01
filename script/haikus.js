@@ -1,5 +1,5 @@
 function haikusLoad(infos){
-  console.log(infos["haikus"])
+  console.log(infos)
 
   var codeBlock = '<h2>Haikus</h2>';
 
