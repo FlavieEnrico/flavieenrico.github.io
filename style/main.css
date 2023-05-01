@@ -88,10 +88,6 @@ a:hover {
 .row {
     width: 100%;
     border-bottom: solid white 1px;
-    padding-bottom: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 pre {
