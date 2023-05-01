@@ -1,13 +1,19 @@
-export function haikusLoad(data) {
-  const haikusContainer = document.getElementById('haikus_js');
-  haikusContainer.innerHTML = '';
+function haikusLoad(infos){
+  console.log(infos["haikus"])
 
-  data.haikus.forEach(haiku => {
-    const haikuDiv = document.createElement('div');
-    haikuDiv.className = 'haiku';
-    haikuDiv.innerHTML = `
-      <p>${haiku.haiku}</p>
-    `;
-    haikusContainer.appendChild(haikuDiv);
-  });
+  var codeBlock = '<h2>Haikus</h2>';
+
+  var section = document.getElementById('haikus_js');
+  for (let index = 0; index < infos["haikus"].length; index++) {
+      const haiku = infos["haikus"][index];
+      var newHaiku='<!-- Notice: each .row is an haiku -->'+
+            '<div class="row">'+
+            haiku.haiku +
+            '</div>'+
+            '<!-- /END haiku -->'
+
+          codeBlock += newHaiku
+  }
+
+  document.getElementById('haikus_js').innerHTML = codeBlock
 }
