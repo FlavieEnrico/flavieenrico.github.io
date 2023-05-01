@@ -7,7 +7,14 @@ function haikusLoad(infos){
   for (let index = 0; index < infos.length; index++) {
       const haiku = infos[index];
       var newHaiku='<!-- Notice: each .row is an haiku -->'+
-            '<div class="row"><pre>'+
+            '<div class="row">'+
+            '<pre>'+
+            haiku.number
+            '</pre>'+
+            '<pre>'+
+            haiku.tweetid
+            '</pre>'+
+            '<pre>'+
             haiku.haiku +
             '</pre></div>'+
             '<!-- /END haiku -->'
