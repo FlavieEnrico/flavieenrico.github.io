@@ -87,9 +87,13 @@ a:hover {
 
 .row {
     width: 100%;
+    border-bottom: solid white 1px;
+    padding-bottom: 20px;
+}
+
+pre {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
     opacity: 100%;
     font-size: 16px;
-    border-bottom: solid white 1px;
 }
