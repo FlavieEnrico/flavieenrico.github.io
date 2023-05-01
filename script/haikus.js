@@ -7,9 +7,9 @@ function haikusLoad(infos){
   for (let index = 0; index < infos.length; index++) {
       const haiku = infos[index];
       var newHaiku='<!-- Notice: each .row is an haiku -->'+
-            '<span class="row">'+
+            '<div class="row"><span>'+
             haiku.haiku +
-            '</span>'+
+            '</span></div>'+
             '<!-- /END haiku -->'
 
           codeBlock += newHaiku
