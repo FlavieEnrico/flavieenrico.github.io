@@ -9,16 +9,8 @@
     <title>swarm - </title>
     <script type="text/javascript">
         alert("stp");
-
-        fetch('./script/haikus.json')
-        .then(response => response.json())
-        .then(data => haikusLoad(data))
-        .catch(error => console.error('Error loading data:', error));
-
-        console.log(data);
-       
     </script>
-    <!--<script type="module">
+    <script type="module">
         import { haikusLoad } from './script/haikus.js';
         
         fetch('./script/haikus.json')
@@ -27,7 +19,7 @@
         .catch(error => console.error('Error loading data:', error));
 
         console.log(data);
-    </script>-->
+    </script>
 </head>
 <body>
     <div id="wrap">
@@ -54,8 +46,6 @@
             <h2>Haïkus:</h2>
             <div id="haikus_js">
             </div>
-            <script src="script/haikus.js">
-            </script>
         </div>
     </div>
 </body>
