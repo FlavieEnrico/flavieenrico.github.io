@@ -9,10 +9,10 @@ function haikusLoad(infos){
       var newHaiku='<!-- Notice: each .row is an haiku -->'+
             '<div class="row">'+
             '<pre>'+
-            haiku.number
+            haiku.number+
             '</pre>'+
             '<pre>'+
-            haiku.tweetid
+            haiku.tweetid+
             '</pre>'+
             '<pre>'+
             haiku.haiku +
