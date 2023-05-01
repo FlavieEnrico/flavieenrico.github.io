@@ -50,7 +50,7 @@ nav div{
     width: 40%;
 }
 
-body div > div {
+.width-50 {
     width: 50%;
 }
 
