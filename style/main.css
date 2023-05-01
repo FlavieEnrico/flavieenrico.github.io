@@ -93,6 +93,10 @@ a:hover {
     align-items: center;
 }
 
+.row > pre:last-of-type {
+    width: 50%;
+}
+
 pre {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
