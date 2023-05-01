@@ -84,3 +84,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.row {
+    width: 100%;
+    font-family: 'Compagnon', sans-serif;
+    font-weight: 600;
+    border-bottom: solid white 1px;
+}
