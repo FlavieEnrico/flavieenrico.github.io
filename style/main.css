@@ -61,23 +61,24 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 36pt;
 }
 
 h2 {
-    font-size: 42px;
+    font-size: 30pt;
 }
 
 p {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
     opacity: 60%;
-    font-size: 20px;
+    font-size: 15pt;
 }
 
 a {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
+    font-size: 12pt;
     color: white;
     text-decoration: none;
 }
@@ -102,7 +103,7 @@ pre {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
     opacity: 100%;
-    font-size: 18px;
+    font-size: 12pt;
 }
 
 #haiku_js {
@@ -113,7 +114,7 @@ footer {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
     opacity: 60%;
-    font-size: 14px;
+    font-size: 10pt;
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
