@@ -8,4 +8,39 @@
     .width-50 {
         width: 70%;
     }
+
+    nav div {
+        width: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .width-50 {
+        width: 90%;
+    }
+
+    nav div {
+        display: none;
+        flex-direction: column;
+        position: relative;
+        left: 0;
+        width: 60%;
+        z-index: 1;
+        padding: 10px;
+        text-align: center;
+    }
+
+    nav div a {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .hamburger {
+        display: block;
+    }
+}
+
+.show {
+    display: flex !important;
+    align-items: end;
 }

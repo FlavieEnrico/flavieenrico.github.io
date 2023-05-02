@@ -39,6 +39,7 @@ nav {
     padding-bottom: 20px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     border-bottom: solid white 1px;
     position: sticky;
     top: 0px;
@@ -49,6 +50,14 @@ nav div{
     justify-content: space-between;
     align-items: center;
     width: 40%;
+}
+
+.hamburger {
+    display: none;
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
 }
 
 .width-50 {

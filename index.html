@@ -26,6 +26,7 @@
                 <a href="./spanish.html">spanish</a>
                 <a href="./about.html">about</a>
             </div>
+            <button class="hamburger">&#9776;</button>
         </nav>
         <h1>Swarm: What if climate deniers were poets?</h1>
         <div class="width-50">
@@ -47,5 +48,10 @@
             Crédits: webpage by Flavie Enrico
         </footer>
     </div>
+    <script>
+        document.querySelector(".hamburger").addEventListener("click", function() {
+            document.querySelector("nav div").classList.toggle("show");
+        });
+    </script>
 </body>
 </html>
