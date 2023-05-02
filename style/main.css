@@ -35,17 +35,26 @@ body #wrap {
 }
 
 nav {
-    padding-top: 80px;
+    padding: 80px 10% 0 10%;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border-bottom: solid white 1px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+}
+
+nav span {
     padding-bottom: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: solid white 1px;
-    position: sticky;
-    top: 0px;
 }
 
-nav div{
+.menu-links {
     display: flex;
     justify-content: space-between;
     align-items: center;

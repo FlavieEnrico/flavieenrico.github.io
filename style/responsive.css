@@ -9,7 +9,7 @@
         width: 70%;
     }
 
-    nav div {
+    .menu-links {
         width: 50%;
     }
 }
@@ -19,7 +19,7 @@
         width: 90%;
     }
 
-    nav div {
+    .menu-links {
         display: none;
         flex-direction: column;
         position: relative;
@@ -30,7 +30,7 @@
         text-align: center;
     }
 
-    nav div a {
+    .menu-links a {
         display: block;
         margin-bottom: 10px;
     }
