@@ -109,6 +109,15 @@ a {
     text-decoration: none;
 }
 
+blockquote {
+    font-family: 'Compagnon', sans-serif;
+    font-weight: 600;
+    font-size: 12pt;
+    border: solid white 1px;
+    margin: 0px;
+    padding: 20px;
+}
+
 a:hover {
     text-decoration: underline;
 }
