@@ -74,7 +74,7 @@ nav span {
 }
 
 h1, h2 {
-    font-family: 'Rokkitt', sans-serif;
+    font-family: 'Compagnon', sans-serif;
     font-weight: 600;
 }
 
@@ -91,6 +91,14 @@ p {
     font-weight: 600;
     opacity: 60%;
     font-size: 15pt;
+}
+
+p > a {
+    font-size: 15pt;
+}
+
+p > a:hover {
+    text-decoration: underline;
 }
 
 a {
