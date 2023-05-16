@@ -145,6 +145,14 @@ pre {
     width: 100%;
 }
 
+#about-fr:before, #about-en:before, #about-spa:before { 
+    display: block; 
+    content: " "; 
+    margin-top: -150px;
+    height: 150px; 
+    visibility: hidden; 
+}
+
 footer {
     font-family: 'Compagnon', sans-serif;
     font-weight: 600;
