@@ -21,11 +21,11 @@
         }
         
         document.addEventListener("DOMContentLoaded", function() {
-            // Attach event listener to the button after the "Haikus" h1 element
+            // Attach event listener to the button after the "Haikus" h2 element
             var reloadButton = document.createElement("button");
             reloadButton.textContent = "Reload with Different JSON";
             reloadButton.addEventListener("click", reloadWithDifferentJSON);
-            document.querySelector("h1 + div").appendChild(reloadButton);
+            document.querySelector("h2 + a").insertAdjacentElement('afterend', reloadButton);
         });
     </script>
     <script type="text/javascript">
