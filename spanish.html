@@ -10,12 +10,11 @@
     <title>swarm - spanish</title>
     <script src="./script/haikus.js" type="text/javascript"></script>
     <script type="text/javascript">
-        function reloadWithDifferentJSON() {
+        function loadDifferentJSON() {
             fetch('./script/haikus_spa_arg.json')
                 .then(response => response.json())
                 .then(data => {
                     haikusLoad(data);
-                    location.reload(); // Reload the page
                 })
                 .catch(error => console.error('Error loading data:', error));
         }
@@ -23,9 +22,9 @@
         document.addEventListener("DOMContentLoaded", function() {
             // Attach event listener to the button after the "Haikus" h2 element
             var reloadButton = document.createElement("button");
-            reloadButton.textContent = "Reload with Different JSON";
-            reloadButton.addEventListener("click", reloadWithDifferentJSON);
-            document.querySelector("h2 + a").insertAdjacentElement('afterend', reloadButton);
+            reloadButton.textContent = "Load Different JSON";
+            reloadButton.addEventListener("click", loadDifferentJSON);
+            document.querySelector("h2").insertAdjacentElement('afterend', reloadButton);
         });
     </script>
     <script type="text/javascript">
