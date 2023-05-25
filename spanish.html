@@ -10,8 +10,14 @@
     <title>swarm - spanish</title>
     <script src="./script/haikus.js" type="text/javascript"></script>
     <script type="text/javascript">
-        function loadDifferentJSON() {
-            fetch('./script/haikus_spa_arg.json')
+        var isAlternateJSON = false;
+
+        function toggleJSON() {
+            isAlternateJSON = !isAlternateJSON;
+
+            var jsonFile = isAlternateJSON ? './script/haikus_spa_arg.json' : './script/haikus_spa.json';
+
+            fetch(jsonFile)
                 .then(response => response.json())
                 .then(data => {
                     haikusLoad(data);
@@ -22,9 +28,9 @@
         document.addEventListener("DOMContentLoaded", function() {
             // Attach event listener to the button after the "Haikus" h2 element
             var reloadButton = document.createElement("button");
-            reloadButton.textContent = "Load Different JSON";
-            reloadButton.addEventListener("click", loadDifferentJSON);
-            document.querySelector("h2").insertAdjacentElement('afterend', reloadButton);
+            reloadButton.textContent = "Toggle JSON";
+            reloadButton.addEventListener("click", toggleJSON);
+            document.querySelector("h2 + a").insertAdjacentElement('afterend', reloadButton);
         });
     </script>
     <script type="text/javascript">
