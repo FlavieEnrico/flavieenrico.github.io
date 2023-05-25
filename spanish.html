@@ -30,7 +30,7 @@
             var reloadButton = document.createElement("button");
             reloadButton.textContent = "Cambiar el tipo de haiku.";
             reloadButton.addEventListener("click", toggleJSON);
-            document.querySelector("h2 + div").insertAdjacentElement('afterend', reloadButton);
+            document.querySelector("h2 + div + div").insertAdjacentElement('afterend', reloadButton);
         });
     </script>
     <script type="text/javascript">
@@ -70,6 +70,9 @@
             <h2>Haikus:</h2>
             <div>
                 <a href="./script/haikus_spa.json" download="Dataset-Haikus-SPA.json">Descargar el dataset de haikus.</a>
+            </div>
+            <div>
+                <a href="./script/haikus_spa_arg.json" download="Dataset-Haikus-SPA-ARG.json">Descargar el dataset de haikus argentinos.</a>
             </div>
             <div id="haikus_js">
             </div>
