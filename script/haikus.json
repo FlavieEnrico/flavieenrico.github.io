@@ -1,419 +1,624 @@
 [
     {
         "number": 1,
+        "index": 1,
         "tweetid": "1613640864567361536",
         "haiku": "Personne au climat\r\nScandaleux, n’importe quoi\r\nPersonne ne dit rien"
     },
     {
         "number": 1,
+        "index": 2,
         "tweetid": "1613640864567361536",
         "haiku": "Ils acquiescent,\nRacontez faits à personne,\nN'importe climat."
     },
     {
         "number": 2,
+        "index": 3,
         "tweetid": "1612445465580027906",
         "haiku": "Arrêt des mensonges \nPar l’obscurantisme vert, \nRessources infinies"
     },
     {
         "number": 2,
+        "index": 4,
         "tweetid": "1612445465580027906",
         "haiku": "Apprenez à lire,\nObscurantisme vert,\nÉnergie épuisable."
     },
     {
         "number": 3,
+        "index": 5,
         "tweetid": "1613256709610283012",
         "haiku": "Côté science, nous tenons,\nCrise climatique, fait établi,\nPas opinion."
     },
     {
         "number": 4,
+        "index": 6,
         "tweetid": "1613256705936072710",
         "haiku": "Climatologues militantisme,\nJournalistes écrivent,\nPhénomène religieux"
     },
     {
         "number": 4,
+        "index": 7,
         "tweetid": "1613256705936072710",
         "haiku": "Militantisme hélas\nEcrivent journalistes\nMilitantisme."
     },
     {
         "number": 5,
+        "index": 8,
         "tweetid": "1613147494992470017",
         "haiku": "Avec ou sans\nPrésent est le changement\nInévitable",
         "category": 2
     },
     {
         "number": 5,
+        "index": 9,
         "tweetid": "1613147494992470017",
         "haiku": "Crise-climat il y a\nGravement climat varie\nBien fols ceux qui s'y fient.",
         "category": 3
     },
     {
         "number": 5,
+        "index": 10,
         "tweetid": "1613147494992470017",
         "haiku": "Quelle crise climatique ?\nJe cueille des cerises\nA la porte de l'igloo.",
         "category": 0
     },
     {
         "number": 6,
+        "index": 11,
         "tweetid": "1613166674315706372",
         "haiku": "Domaine croyance,\nTexte sacré, rapport GIEC,\nClergé, messes COP."
     },
     {
         "number": 6,
+        "index": 12,
         "tweetid": "1613166674315706372",
         "haiku": "Apocalyptique :\nChangement dogme, messes,\nRépression scientifique, rapport."
     },
     {
         "number": 7,
+        "index": 13,
         "tweetid": "1613477176908693505",
         "haiku": "C'est le soleil le coupable\nQui réchauffe mer et sable !\nLe CO2 est imprenable",
         "category": 2
     },
     {
+        "number": 8,
+        "index": 14,
+        "tweetid": "1613263829726535698",
+        "haiku": "Membres, consensus,\r\nPas de consensus, science\r\nCensure pas scientifique, GIEC"
+    },
+    {
         "number": 9,
+        "index": 15,
         "tweetid": "1613256688496439297",
         "haiku": "Corrélation, cancer,\nCO2, températures,\nIdéologie montée."
     },
     {
         "number": 10,
+        "index": 16,
         "tweetid": "1612116089441325058",
         "haiku": "C'est un changement\nUn intérêt sous-jacent\nDu gouvernement",
         "category": 3
     },
     {
         "number": 10,
+        "index": 17,
         "tweetid": "1612116089441325058",
         "haiku": "Politisation : instrumentalisation\nLa nature ?\nMême pas peur !",
         "category": 3
     },
     {
         "number": 11,
+        "index": 18,
         "tweetid": "1612104401610739715",
         "haiku": "La mer monte, je picole\nLa glace fond, je rigole\nPlus de Léman ? Je suis folle",
         "category": 5
     },
     {
         "number": 12,
+        "index": 19,
         "tweetid": "1622305020199800832",
         "haiku": "Tout s'accumule\nMais tout se renouvelle\nPas notre fardeau",
         "category": 2
     },
     {
         "number": 13,
+        "index": 20,
         "tweetid": "1634918930299990020",
         "haiku": "Plantes aiment CO2,\nTerre verdit, bonne chose,\nNiveau bas, pourquoi craindre ?"
     },
     {
         "number": 14,
+        "index": 21,
         "tweetid": "1632368059263467523",
         "haiku": "On joue au UNO,\nCO2 contre température,\nMais la carte miroir ne va que dans un sens"
     },
     {
         "number": 14,
+        "index": 22,
         "tweetid": "1632368059263467523",
         "haiku": "La Température décide \nQu’on y croit ou pas \nLe CO2 ne détermine pas "
     },
     {
         "number": 15,
+        "index": 23,
         "tweetid": "1602811981743931395",
         "haiku": "Idéologie !\nLe GIEC n'est pas scientifique\nC'est politique",
         "category": 5
     },
     {
         "number": 16,
+        "index": 24,
         "tweetid": "1630522072802664448",
         "haiku": "Crise de société\nNotre science n'est pas fiable\nD'après nos médias",
         "category": 5
     },
     {
+        "number": 17,
+        "index": 25,
+        "tweetid": "???",
+        "haiku": "mensonge \r\nmanipulation cinoche \r\ncinoche temps cinoche "
+    },
+    {
+        "number": 18,
+        "index": 26,
+        "tweetid": "1558489684354924545",
+        "haiku": "premiers éliminés hommes \r\ngouvernements scientifiques, conclusions \r\nhomme contraire, uniquement "
+    },
+    {
         "number": 19,
+        "index": 27,
         "tweetid": "1199402274449219584",
         "haiku": "Alerte déni !\nSi niveau très élevé\nAddition salée",
         "category": 1
     },
     {
+        "number": 20,
+        "index": 28,
+        "tweetid": "???",
+        "haiku": "CO2 médias CO2 médias corrélation \r\npoliticiens température médias \r\ncorrélation médias cycles "
+    },
+    {
         "number": 21,
+        "index": 29,
         "tweetid": "1133628881150369793",
         "haiku": "Chine dernière mode \nRenoncer petits smartphone \nMouvement climat fringues, rien."
     },
     {
         "number": 22,
+        "index": 30,
         "tweetid": "1174170151094226946",
         "haiku": "Québec solidaire,\nAlarmer pour survivre,\nRestez sur Terre",
         "category": 1
     },
     {
         "number": 23,
+        "index": 31,
         "tweetid": "1183452377963212802",
         "haiku": "Par le pétrolier, \nGreta Thunberg financée,\nSainte du climat",
         "category": 0
     },
     {
         "number": 25,
+        "index": 32,
+        "tweetid": "1636746523730927618",
+        "haiku": "température \ntempérature dissimuler \ndissimuler augmenté"
+    },
+    {
+        "number": 25,
+        "index": 33,
         "tweetid": "1636746523730927618",
         "haiku": "Depuis quinze années\nLes scientifiques ont caché\nToute la vérité."
     },
     {
         "number": 25,
+        "index": 34,
         "tweetid": "1636746523730927618",
         "haiku": "L'ONU nous trahit\nDix ans passés pour quinze ans\nLa science nous a menti."
     },
     {
         "number": 26,
+        "index": 35,
         "tweetid": "1620778428432805888",
         "haiku": "Biocarburant\nInjecté dans l'atmosphère\nCette histoire absurde",
         "category": 4
     },
     {
         "number": 27,
+        "index": 36,
         "tweetid": "1633355126445428743",
         "haiku": "Neige et sable mélés\nSur les bosses des dromadaires\nTremble le désert",
         "category": 1
     },
     {
         "number": 27,
+        "index": 37,
         "tweetid": "1633355126445428743",
         "haiku": "Désert de grêlons, \nSidérés les dromadaires\nOnt l'air Saoudite",
         "category": 4
     },
     {
+        "number": 28,
+        "index": 38,
+        "tweetid": "???",
+        "haiku": "avions avions aéroport \r\nd’échappement d’échappement \r\nd’échappement "
+    },
+    {
         "number": 29,
+        "index": 39,
         "tweetid": "1629926901287362561",
         "haiku": "A zéro s'élève\nSelon les anglais\nLa fonte pourtant immense."
     },
     {
         "number": 29,
+        "index": 40,
         "tweetid": "1629926901287362561",
         "haiku": "Étude présente ?\nGlace de l'Antartique,\nRecord de faiblesse ?"
     },
     {
         "number": 30,
+        "index": 41,
         "tweetid": "1617527676021112842",
         "haiku": "Plus rien, plus aucun,\nVolé par le CO2, \nAu nom de la vérité"
     },
     {
         "number": 30,
+        "index": 42,
         "tweetid": "1617527676021112842",
         "haiku": "Grâce au CO2,\nPlus de croissance des plantes, \nTrès bonne nouvelle."
     },
     {
         "number": 30,
+        "index": 43,
         "tweetid": "1617527676021112842",
         "haiku": "Plus aucun, plus rien,\nVolé par le CO2\nAu nom de la vérité."
     },
     {
         "number": 31,
+        "index": 44,
         "tweetid": "1625512556902195201",
         "haiku": "Pour propriétaires\nLa recharge est coûteuse,\nPlein d'essence cher."
     },
     {
+        "number": 32,
+        "index": 45,
+        "tweetid": "1621965284868333570",
+        "haiku": "tonnes de données\r\némissions de CO2,\r\nréchauffement officiel"
+    },
+    {
         "number": 33,
+        "index": 46,
         "tweetid": "1635892924066955264",
         "haiku": "Crétin de cobalt\nManteau de la planète\nVertueux lithium",
         "category": 4
     },
     {
         "number": 34,
+        "index": 47,
         "tweetid": "1637418077036920833",
         "haiku": "Pas beaucoup de morts\nSuite aux catastrophes,\nOn nous a menti."
     },
     {
         "number": 34,
+        "index": 48,
         "tweetid": "1637418077036920833",
         "haiku": "Sur une durée suffisamment longue \nL'espérance de vie tombe pour tout le monde \nA zéro... "
     },
     {
         "number": 34,
+        "index": 49,
         "tweetid": "1637418077036920833",
         "haiku": "Morts climatiques,\nJamais aussi peu eu,\nÉvénements suite."
     },
     {
         "number": 35,
+        "index": 50,
         "tweetid": "???",
         "haiku": "GIEC corrompu\nJuste une p*** à subvention\nOn se les gèle grave",
         "category": 1
     },
     {
         "number": 35,
+        "index": 51,
         "tweetid": "???",
         "haiku": "Oh zut il fait frais,\nMais la véritable p***\nC'est l'argent méchante."
     },
     {
         "number": 36,
+        "index": 52,
         "tweetid": "1637907155213860865",
         "haiku": "Mensonge risqué, \nRéchauffement demandé\nLe temps plus facile",
         "category": 0
     },
     {
         "number": 37,
+        "index": 53,
         "tweetid": "1635685259651035157",
         "haiku": "Glace d'Arctique\nClowns repoussés sans déclin\nJusqu'en 2035",
         "category": 0
     },
     {
+        "number": 38,
+        "index": 54,
+        "tweetid": "1633452178575589376",
+        "haiku": "Manipulé, GIEC,\r\nPolitiques, business demain,\r\nUrgence climatique."
+    },
+    {
+        "number": 39,
+        "index": 55,
+        "tweetid": "1630582114188918784",
+        "haiku": "Réduire l'empreinte,\r\nIndispensable CO2,\r\nFoutaise de vivant."
+    },
+    {
         "number": 40,
+        "index": 56,
         "tweetid": "1629703351393722368",
         "haiku": "Dérèglement climatique :\nY échappent jets privés,\nVoitures de luxe."
     },
     {
+        "number": 41,
+        "index": 57,
+        "tweetid": "1621667980122652674",
+        "haiku": "écolos serait pour\r\nécolos GIEC\r\nseront écolos GIEC"
+    },
+    {
+        "number": 42,
+        "index": 58,
+        "tweetid": "1619784923375878146",
+        "haiku": "Ténérife foot\r\nAttention également\r\nAttention Ténérife"
+    },
+    {
         "number": 44,
+        "index": 59,
         "tweetid": "1615812524913397776",
         "haiku": "Fraude statistique ?\nIllusion climatique ?\nRéveillez esprits !",
         "category": 5
     },
     {
         "number": 45,
+        "index": 60,
         "tweetid": "1613156943832698882",
         "haiku": "Oh réchauffement !\nSolaire ou CO2 ?\nTaxe ou pipeau ?"
     },
     {
         "number": 45,
+        "index": 61,
         "tweetid": "1613156943832698882",
         "haiku": "Climat réchauffé\nC'est à cause du soleil\nGlaciers presque fondus."
     },
     {
+        "number": 46,
+        "index": 62,
+        "tweetid": "???",
+        "haiku": "Rappel rappel \nRévolution, succession Française \nproduit Paris industrie "
+    },
+    {
+        "number": 47,
+        "index": 63,
+        "tweetid": "1609632673110151170",
+        "haiku": "passé d’ozone \nd’ozone couche passé d’ozone\nsoudainement souvenez"
+    },
+    {
         "number": 49,
+        "index": 64,
         "tweetid": "1606229796211548161",
         "haiku": "Exagération !\nDes températures extrêmes\nDans les bras de Morphée !",
         "category": 1
     },
     {
         "number": 49,
+        "index": 65,
         "tweetid": "1606229796211548161",
         "haiku": "Vague de froid intense\nTempérature moins mille\nRéchauffement, mon c**."
     },
     {
         "number": 49,
+        "index": 66,
         "tweetid": "1606229796211548161",
         "haiku": "Winter is coming \nMate moi ça la Raffale\nRéchauffistes is not in the kitchen"
     },
     {
+        "number": 50,
+        "index": 67,
+        "tweetid": "1635772152052953089",
+        "haiku": "réchauffement atteint\nniveaux d'eau raison\nprétend catastrophique"
+    },
+    {
+        "number": 51,
+        "index": 68,
+        "tweetid": "1613140232060157956",
+        "haiku": "Globalement faut \ndéfendre millions faible\nboulangers défendre"
+    },
+    {
+        "number": 52,
+        "index": 69,
+        "tweetid": "1613636173502550040",
+        "haiku": "énergétique crise\nénergétique repose science\nscience littérature"
+    },
+    {
+        "number": 53,
+        "index": 70,
+        "tweetid": "???",
+        "haiku": "fait chaud \nlongue longue aujourd'hui\nlongue croissance"
+    },
+    {
+        "number": 54,
+        "index": 71,
+        "tweetid": "1613477190519386113",
+        "haiku": "expériences détectés\nCO2 même nuages\npas d'effets"
+    },
+    {
         "number": 59,
+        "index": 72,
         "tweetid": "1612525043883335706",
         "haiku": "8000 ans déjà, \nLa c****** humaine, \nConfirmée par ce tweet."
     },
     {
+        "number": 66,
+        "index": 73,
+        "tweetid": "1612110477030723584",
+        "haiku": "passe plus centre plus Terre \ncôtes, mesure problème que côtes, niveau tient \nne monte mer ne plus "
+    },
+    {
+        "number": 67,
+        "index": 74,
+        "tweetid": "1612110473876447235",
+        "haiku": "mer Satellites \nélevé marégraphes enregistré \nplus plus deux enregistré deux "
+    },
+    {
+        "number": 68,
+        "index": 75,
+        "tweetid": "1612104398058012672",
+        "haiku": "Tendance années baisse mois neuf\ndeux avec cours augmenté septembre, \ndernières niveau "
+    },
+    {
+        "number": 69,
+        "index": 76,
+        "tweetid": "1612104364079947776",
+        "haiku": "annuler, \ncompenser, compris, \nExistence"
+    },
+    {
         "number": 70,
+        "index": 77,
         "tweetid": "1612104319884574720",
         "haiku": "Zéro, alors système énergétique, \nCO2 polluant ? Preuves CO2 \nEn vie énergétique, zéro polluant."
     },
     {
         "number": 71,
+        "index": 78,
         "tweetid": "1612104314788483072",
         "haiku": "Changent compétences \nNe connaissent rien les auteurs :\nPrédictions évoluent, rien n'évolue."
     },
     {
         "number": 73,
+        "index": 79,
         "tweetid": "1611781832118538240",
         "haiku": "Nouvelles coopéré CO2,\nMonotone Antarctique,\nRéchauffement polaire. "
     },
     {
         "number": 78,
+        "index": 80,
         "tweetid": "1657085429705842698",
         "haiku": "Fin de période CO2 glaciaire,\nHausse actuelle prouve émissions\nÂge médiéval."
     },
     {
         "number": 83,
+        "index": 81,
         "tweetid": "1656787716581801984",
         "haiku": "Du démontré insignifiant\nPreuve à preuve anthropique\nIl joue le réchauffement."
     },
     {
         "number": 84,
+        "index": 82,
         "tweetid": "1656787679567069188",
         "haiku": "CO2 à climat\nEt jamais, aucun lien à aucune règle,\nComparativement."
     },
     {
         "number": 88,
+        "index": 83,
         "tweetid": "1656906160727891969",
         "haiku": "Quand la chaleur monte, \nRéchauffement climatique.\nMétéo fait la glace."
     },
     {
         "number": 88,
+        "index": 84,
         "tweetid": "1656906160727891969",
         "haiku": "Qu'il fasse chaud,\nQu'il fasse froid,\nOn accuse le climat."
     },
     {
         "number": 90,
+        "index": 85,
         "tweetid": "1657820742040313860",
         "haiku": "Équilibrage. Remonte,\nAnomalie précipitations, sec,\nÉquilibrage. Plonge."
     },
     {
         "number": 94,
+        "index": 86,
         "tweetid": "???",
         "haiku": "Réchauffement ? Non, \nAussie a froid donc disons,\nDéréglement ? Oui."
     },
     {
         "number": 95,
+        "index": 87,
         "tweetid": "1655227799995654145",
         "haiku": "Réchauffement faire peur,\nClimatique s'abstenir. \nRéchauffement politique."
     },
     {
         "number": 97,
+        "index": 88,
         "tweetid": "???",
         "haiku": "Record de froid en Antarctique,\nAvant l'hiver, est-ce dramatique ?\nMonde chaud hypothétique..."
     },
     {
         "number": 97,
+        "index": 89,
         "tweetid": "1657004430049304576",
         "haiku": "Hiver réchauffé commencé ?\nAntarctique records de froid ! \nImaginez..."
     },
     {
         "number": 99,
+        "index": 90,
         "tweetid": "1657471714626883585",
         "haiku": "Température \nAnthropique \nSignificatif. "
     },
     {
-        "number": "???",
-        "tweetid": "1621965284868333570",
-        "haiku": "Tonnes de données,\nÉmissions de CO2,\nRéchauffement officiel ?"
+        "number": 62,
+        "index": 91,
+        "tweetid": "1612110501223211014",
+        "haiku": "Monde chaud, gradient faible\nTempérature, équateur, pôles\nCirculation réduite"
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 32,
+        "index": 92,
+        "tweetid": "1621965284868333570",
         "haiku": "Prédisent, clowns d'ici,\nArctique sans glace, 2012,\nQuantité de glace ?"
     },
     {
-        "number": "???",
-        "tweetid": "???",
-        "haiku": "Manipulé, GIEC,\nFins politiques, demain,\nUrgence climatique."
-    },
-    {
-        "number": "???",
-        "tweetid": "???",
+        "number": 39,
+        "index": 93,
+        "tweetid": "1630582114188918784",
         "haiku": "Empreinte, réduire ?\nFoutaise ! CO2 indispensable,\nPour vivre, se développer."
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 58,
+        "index": 94,
+        "tweetid": "1615519439423684608",
         "haiku": "Chaos climatique\nRéchauffement, température\nHausses, connaît aujourd'hui."
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 59,
+        "index": 95,
+        "tweetid": "1612525043883335706",
         "haiku": "Preuve absente\nConfirmation, réchauffement\nNature matérielle."
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 61,
+        "index": 96,
+        "tweetid": "1612159204868997120",
         "haiku": "Couverture, barrière\nAlarmistes trompés\nCroire les gens, jamais."
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 65,
+        "index": 97,
+        "tweetid": "1612110477030723584",
         "haiku": "Élévation faible\nProblème en zones seulement,\nAction homme."
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 64,
+        "index": 98,
+        "tweetid": "1612110488929722370",
         "haiku": "Érosion, profil,\nNiveau mer, élévation.\nMais marégraphe, stable."
     },
     {
-        "number": "???",
-        "tweetid": "???",
+        "number": 60,
+        "index": 99,
+        "tweetid": "1612499823625924608",
         "haiku": "Preuve scientifique,\nCO2 et température\nLien inexistant."
     },
     {
-        "number": "???",
-        "tweetid": "???",
-        "haiku": "Réduire l'empreinte,\nIndispensable CO2,\nFoutaise de vivant."
+        "number": 63,
+        "index": 100,
+        "tweetid": "1612110496894681088",
+        "haiku": "Événements extrêmes\nVagues chaleurs, définition\nOuragans calmes"
     }
 ]
